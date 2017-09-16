@@ -6,7 +6,7 @@ A simple preamplifier based around OPA2134 as buffer stage and PGA2311
 as volume controller. A PSU is also present on the board, which is to
 be powered with 6VAC. Input signal should be around Red Book standard.
 
-[[./preamp.pdf][Schematic]]
+[[./preamp2.pdf][Schematic]]
 
 [[./images/front.png]]
 
