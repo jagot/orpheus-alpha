@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PGA2311
+D 2 channels Audio Volume Control
+K AUDIO
+F texas\pga4311.pdf
+$ENDCMP
+#
+#End Doc Library
