@@ -7,7 +7,7 @@ as volume controller. A PSU (design [[https://www.muffsy.com/build-the-muffsy-ps
 present on the board, which is to be powered with 6VAC. Input signal
 should be around Red Book standard.
 
-[[./preamp2.pdf][Schematic]]
+[[./orpheus-alpha.pdf][Schematic]]
 
 [[./images/front.png]]
 
