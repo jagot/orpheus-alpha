@@ -3,8 +3,9 @@
 #+EMAIL: stefanos.carlstrom@gmail.com
 
 A simple preamplifier based around OPA2134 as buffer stage and PGA2311
-as volume controller. A PSU is also present on the board, which is to
-be powered with 6VAC. Input signal should be around Red Book standard.
+as volume controller. A PSU (design [[https://www.muffsy.com/build-the-muffsy-psu-v3.html][courtesy of Muffsy]]) is also
+present on the board, which is to be powered with 6VAC. Input signal
+should be around Red Book standard.
 
 [[./preamp2.pdf][Schematic]]
 
